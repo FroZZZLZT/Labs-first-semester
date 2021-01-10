@@ -4,9 +4,9 @@ hello();
 
 
 function hello() {
-  const greeting = 'Hi there.';
+    const greeting = 'Hi there.';
 
-  console.log(greeting);
+    console.log(greeting);
 }
 
 
